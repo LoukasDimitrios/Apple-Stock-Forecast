@@ -55,10 +55,13 @@ The goal is to compare different types of models and understand which features, 
 ├── README.md
 ├── requirements.txt
 
+```
 
 ## How to Run
 
+```bash
 Make sure you have Python 3.8+ and all dependencies installed.
+```
 
 ### Step 1 – Install dependencies
 
@@ -81,9 +84,7 @@ This script will:
 - Create and merge sentiment scores
 - Train all models and save performance metrics
 - Generate ROC curves and the final performance comparison
-
-All intermediate results and final outputs are saved in the `results/` and `figures/` folders.
-
+- 
 ---
 
 ## Requirements
@@ -115,10 +116,10 @@ The results showed that:
 
 ### 📊 Final Performance Table
 
-![Model Performance Table](figures/final/model_performance_table.png)
+![Model Performance Table](results/model_performance_table.png)
 
 ### 🔍 ROC Curves for All Models
 
-![ROC Curves](figures/final/roc_curves.png)
+![ROC Curves](results/roc_curve_comparison.png)
 
 All metrics and plots are available in the `results/` and `figures/` folders.
