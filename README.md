@@ -61,6 +61,14 @@ The goal is to compare different types of models and understand which features, 
 
 Make sure you have Python 3.8+ and all dependencies installed.
 
+## Data Requirements
+
+This project uses financial news data for Apple Inc. from the following Kaggle dataset:
+
+📦 [Apple Stock Financial News Dataset on Kaggle](https://www.kaggle.com/datasets/frankossai/apple-stock-aapl-historical-financial-news-data)
+
+After downloading the file `apple_news_data.csv`, place it in the following folder: data\news
+
 
 ### Step 1 – Install dependencies
 
