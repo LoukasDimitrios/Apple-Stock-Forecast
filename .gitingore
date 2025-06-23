@@ -1,0 +1,18 @@
+# Junk/compilation files
+__pycache__/
+*.pyc
+*.pyo
+
+# Data
+data/raw/
+*.zip
+*.npy
+
+# LaTeX build
+*.aux
+*.log
+*.out
+*.toc
+*.gz
+*.fdb_latexmk
+*.fls
