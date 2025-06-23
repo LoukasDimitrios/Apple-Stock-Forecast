@@ -59,9 +59,8 @@ The goal is to compare different types of models and understand which features, 
 
 ## How to Run
 
-```bash
 Make sure you have Python 3.8+ and all dependencies installed.
-```
+
 
 ### Step 1 – Install dependencies
 
