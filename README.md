@@ -65,7 +65,7 @@ Make sure you have Python 3.8+ and all dependencies installed.
 
 This project uses financial news data for Apple Inc. from the following Kaggle dataset:
 
-📦 [Apple Stock Financial News Dataset on Kaggle](https://www.kaggle.com/datasets/frankossai/apple-stock-aapl-historical-financial-news-data)
+[Apple Stock Financial News Dataset on Kaggle](https://www.kaggle.com/datasets/frankossai/apple-stock-aapl-historical-financial-news-data)
 
 After downloading the file `apple_news_data.csv`, place it in the following folder: data\news
 
@@ -121,11 +121,11 @@ The results showed that:
 - Simpler models like Logistic Regression provided competitive baselines, while LSTM models struggled without sufficient temporal patterns.
 - The SHAP analysis helped select a compact and interpretable feature subset that worked well in practice.
 
-### 📊 Final Performance Table
+### Final Performance Table
 
 ![Model Performance Table](results/model_performance_table.png)
 
-### 🔍 ROC Curves for All Models
+### ROC Curves for All Models
 
 ![ROC Curves](results/roc_curve_comparison.png)
 
