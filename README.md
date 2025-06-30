@@ -1,6 +1,6 @@
 # Apple Stock Forecast
 
-## Project Overview
+## 1. Project Overview
 
 This project looks at whether the short-term direction of Apple Inc. (AAPL) stock can be predicted using a mix of historical price data and sentiment from financial news.
 
@@ -11,7 +11,7 @@ To keep the models simple and focused, a SHAP-based feature selection method was
 The goal is to compare different types of models and understand which features, especially sentiment, are useful for forecasting stock trends.
 ---
 
-## Project Structure
+## 2. Project Structure
 
 ```text
 .
@@ -57,11 +57,11 @@ The goal is to compare different types of models and understand which features, 
 
 ```
 
-## How to Run
+## 3. How to Run
 
 Make sure you have Python 3.8+ and all dependencies installed.
 
-## Data Requirements
+## 4. Data Requirements
 
 This project uses financial news data for Apple Inc. from the following Kaggle dataset:
 
@@ -94,7 +94,7 @@ This script will:
 
 ---
 
-## Requirements
+## 5. Requirements
 
 Install all dependencies with:
 
@@ -112,7 +112,7 @@ Main libraries used:
 
 ---
 
-## Results Summary
+## 6. Results Summary
 
 The results showed that:
 
