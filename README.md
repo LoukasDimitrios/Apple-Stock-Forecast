@@ -6,11 +6,7 @@ This project looks at whether the short-term direction of Apple Inc. (AAPL) stoc
 
 The dataset includes daily stock prices and technical indicators like moving averages, volatility, and momentum. Sentiment scores were added based on news headlines about Apple, and all features were aligned by date.
 
-To keep the models simple and focused, a SHAP-based feature selection method was used. Several models were tested, including Logistic Regression, Random Forest, MLP, XGBoost, and LSTM. Sentiment was included in later stages to see if it helps improve prediction.**
-
-<b><u>The goal is to compare different types of models and understand which features, especially sentiment, are useful for forecasting stock trends.</u></b>
-
-
+To keep the models simple and focused, a SHAP-based feature selection method was used. Several models were tested, including Logistic Regression, Random Forest, MLP, XGBoost, and LSTM. Sentiment was included in later stages to see if it helps improve prediction.<b><u>The goal is to compare different types of models and understand which features, especially sentiment, are useful for forecasting stock trends.</u></b>
 ## 2. Project Structure
 
 ```text
